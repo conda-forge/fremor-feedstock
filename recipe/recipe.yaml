@@ -45,6 +45,7 @@ tests:
         - python ${{ python_min }}.*
     script:
       - fremor --help
+      - fremor --version
 
 about:
   summary: Model output rewriter (CMORizer) for FRE/FMS based models
