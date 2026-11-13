@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/f/fremor/fremor-${{ version }}.tar.gz
-  sha256: 
+  sha256: 29d3a3e79e1b3a445a30d29fa72364b878b8adc40c7f66ae549213d85842a2e0
 
 build:
   number: 0
